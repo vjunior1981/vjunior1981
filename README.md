@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vjunior1981" target="blank"><img src="https://img.shields.io/twitter/follow/vjunior1981?logo=twitter&style=for-the-badge" alt="vjunior1981" /></a> </p>
 
-- 🔭 I’m currently working at [Árvore](www.arvore.com.br)
+- 🔭 I’m currently working at [Aize](https://www.aize.io/)
 
 - 🌱 I’m currently learning **ELK, Ansible, Terraform, K8S, DevOps, Agile, CI, CD, Python, Azure, AWS, etc...**
 
@@ -24,6 +24,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/vitorjr](https://www.linkedin.com/in/vitorjr)
 
 - ⚡ Fun fact **I have a NFC microchip implanted on my right hand.**
+
+- :page_with_curl: My [personal time travel machine](https://www.epoch-chrono.com/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
