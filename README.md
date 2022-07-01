@@ -19,8 +19,6 @@
 
 - 💬 Ask me about **Anythinh Ops related. This is my stronger background.**
 
-- 📫 How to reach me **vitorjr81@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/vitorjr](https://www.linkedin.com/in/vitorjr)
 
 - ⚡ Fun fact **I have a NFC microchip implanted on my right hand.**
